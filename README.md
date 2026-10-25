@@ -1,4 +1,5 @@
 # CS210-ItemTrackingProgram
+##Mercy Poletta
 
 #### Summarize the project and what problem it was solving.
 <p> The Corner Grocer wanted to redesign their produce section and needed an item-tracking tool to total up items that were purchased from that section in order to decide on a layout. Instead of it being a long list of repeating items which could make it confusing, the program allows you to see the exact number of items sold. </p>
